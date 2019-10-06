@@ -1,0 +1,12 @@
+body
+{
+    text-align:center;
+    background-size: cover;
+    background-color: black;
+}
+#signupForm
+{
+    background-color: green;
+    margin-left: 500px;
+    margin-right: 500px;
+}
